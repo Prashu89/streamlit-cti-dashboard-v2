@@ -1,4 +1,7 @@
 streamlit
 pandas
 matplotlib
-numpy
+rasterio
+folium
+streamlit-folium
+branca
