@@ -28,7 +28,7 @@ st.set_page_config(
 # IMPORTANT: This is a hardcoded path. The Streamlit app will only find this file
 # if it's run on a machine where this exact path is valid.
 # Using raw string for Windows path compatibility
-RASTER_FILE_PATH = r"D:\wg_cti_project\streamlit_cti_app_fresh\streamlit-cti-dashboard-v2\CTI MASked\cti_masked.tif"
+RASTER_FILE_PATH = r"CTI MASked/cti_masked.tif"
 
 # --- Data Loading and Preparation (CSV Data) ---
 # This data represents the Mean Carbon Threat Index (CTI) values for various districts.
